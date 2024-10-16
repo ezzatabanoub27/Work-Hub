@@ -1,0 +1,6 @@
+@Easy_Job_HostAddress = http://localhost:5267
+
+GET {{Easy_Job_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

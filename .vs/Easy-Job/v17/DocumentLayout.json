@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# projects\\Job-Request\\Easy-Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\easy-job.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:easy-job.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\appdbcontext\\easycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\appdbcontext\\easycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\data\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:data\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c# projects\\Job-Request\\Easy-Job\\Migrations\\20240929151456_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240929151456_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|d:\\c# projects\\job-request\\easy-job\\migrations\\20240923172045_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370ED03-94F8-4CAC-ABDE-F060F5264517}|Easy-Job.csproj|solutionrelative:migrations\\20240923172045_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c# projects\\Job-Request\\Easy-Job\\Migrations\\20240924163610_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240924163610_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\NewUserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DTOs\\NewUserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:51:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Application.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\Application.cs",
+              "RelativeToolTip": "Data\\Entities\\Application.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:55:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\Profile.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Profile.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\Profile.cs",
+              "RelativeToolTip": "Data\\Entities\\Profile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:56:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EasyContext.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\AppDBContext\\EasyContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContext\\EasyContext.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\AppDBContext\\EasyContext.cs",
+              "RelativeToolTip": "Data\\AppDBContext\\EasyContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:27:40.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:24:35.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T14:19:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobsController.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Controllers\\JobsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:16:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwCwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:04:31.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileDTO.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\ProfileDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\ProfileDTO.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\ProfileDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\ProfileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:53:26.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Easy-Job.csproj",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Easy-Job.csproj",
+              "RelativeDocumentMoniker": "Easy-Job.csproj",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Easy-Job.csproj",
+              "RelativeToolTip": "Easy-Job.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T12:54:06.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Data\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:54:57.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyDTO.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\CompanyDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\CompanyDTO.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\CompanyDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\CompanyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:07:32.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Job.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\Job.cs",
+              "RelativeToolTip": "Data\\Entities\\Job.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:55:20.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Company.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\Entities\\Company.cs",
+              "RelativeToolTip": "Data\\Entities\\Company.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:56:01.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobDTO.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\JobDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\JobDTO.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\JobDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\JobDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:51:41.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:47:14.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwE8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:56:31.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240929151456_mig1.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Migrations\\20240929151456_mig1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240929151456_mig1.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Migrations\\20240929151456_mig1.cs",
+              "RelativeToolTip": "Migrations\\20240929151456_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:14:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240924163610_two.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Migrations\\20240924163610_two.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240924163610_two.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Migrations\\20240924163610_two.cs",
+              "RelativeToolTip": "Migrations\\20240924163610_two.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:36:11.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewUserDTO.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\NewUserDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\NewUserDTO.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Data\\DTOs\\NewUserDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\NewUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:54:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240923172045_one.cs",
+              "DocumentMoniker": "D:\\c# projects\\Job-Request\\Easy-Job\\Migrations\\20240923172045_one.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240923172045_one.cs",
+              "ToolTip": "D:\\c# projects\\Job-Request\\Easy-Job\\Migrations\\20240923172045_one.cs",
+              "RelativeToolTip": "Migrations\\20240923172045_one.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:20:46.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
